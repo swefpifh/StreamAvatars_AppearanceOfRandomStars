@@ -1,5 +1,5 @@
-# StreamAvatars_AppearanceOfRandomStars
-##### Script for StreamAvatars
+# Stream Avatars - Appearance of a random number of stars
+##### :speech_balloon: Script for *Stream Avatars* by swefpifh#0026 (*with the help of __clonze#6280__*)
 
 
 
