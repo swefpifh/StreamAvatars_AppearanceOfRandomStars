@@ -21,7 +21,7 @@ The purpose of this script is to allow the configurable appearance of stars to b
 >- **true** 🠚 Activate the display of the chat bubble.
 >- **false** 🠚 Deactivate the display of the chat bubble. (*Default*)
 
-### starsUsername "avatarname",
+### starsUsername
 >- Enter the name of the active avatar that will make the chat bubble appear with the text you have chosen in "*starsBubbleText*".
 
 ### starsBubbleText
