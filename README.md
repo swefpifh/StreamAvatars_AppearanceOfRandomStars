@@ -5,6 +5,7 @@
 - **false** 🠚 Disactivate the sound effect
 
 ### starsEventSound
+- Allows a sound to be played when "*starsEventSoundActivated*" is "*True*". The sound must be added to the "**Sounds**" category of **Stream Avatars**. Then enter the name of the title in inverted commas (if you do not want to generate a sound, leave the inverted commas empty).
 
 ### starsEventChatTextAnnonce
 - **0** 🠚 No message will be displayed in the Twitch chat
