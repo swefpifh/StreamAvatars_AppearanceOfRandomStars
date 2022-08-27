@@ -9,7 +9,7 @@ return function()
 	local sSpawningSoundActivated = data.starsSpawningSoundActivated
 	local sSpawnChance = data.starsSpawningChance
 	local sSpawningNumber = math.random(data.starsSpawningNumber.Min, data.starsSpawningNumber.Max)
-	local sSpawningInterval = math.random(data.starsSpawningInterval.Min, data.starsSpawningInterval.Max) + math.random()
+	local sSpawningInterval = math.random(data.starsSpawningInterval.Min + math.random(), data.starsSpawningInterval.Max)
 	
 	if sEventSoundActivated == true then runCommand("!play " .. data.starsEventSound, true) end
 	
