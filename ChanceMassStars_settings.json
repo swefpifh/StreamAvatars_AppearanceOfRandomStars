@@ -1,6 +1,6 @@
 {
 "starsEventSoundActivated": true,
-"starsEventSound": "mysfxhere01",
+"starsEventSound": "mysfx01here",
 "starsEventChatTextAnnonce": 1,
 "starsEventChatText": "Oh! What the hell is going on? Black energy invaded the atmosphere... This announces the appearance of mystical stars... Get ready to catch them! QUICKLY!",
 
@@ -9,7 +9,7 @@
 "starsBubbleText": "The atmosphere is becoming electric!",
 
 "starsSpawningSoundActivated": false,
-"starsSpawningSound": "mysfxhere02",
+"starsSpawningSound": "mysfx02here",
 "starsSpawningChance": 60,
 "starsSpawningNumber": { "Min": 5, "Max": 10 },
 "starsSpawningInterval": { "Min": 3, "Max": 4 }
