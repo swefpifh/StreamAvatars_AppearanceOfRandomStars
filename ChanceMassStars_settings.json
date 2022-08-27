@@ -1,0 +1,16 @@
+{
+"starsEventSoundActivated": true,
+"starsEventSound": "event_wolfhowling",
+"starsEventChatTextAnnonce": 1,
+"starsEventChatText": "Oh! mais que se passe-t-il? L'énergie de swefheim envahi l'atmosphère... Cela annonce l’apparition de Pierres runiques... Préparez-vous à les attraper! VIIIIITE!",
+
+"starsBubbleActivated": true,
+"starsUsername": "swefpifh",
+"starsBubbleText": "L'énergie de swefheim envahi l'atmosphère!",
+
+"starsSpawningSoundActivated": false,
+"starsSpawningSound": "event_spawnrunes",
+"starsSpawningChance": 60,
+"starsSpawningNumber": { "Min": 5, "Max": 10 },
+"starsSpawningInterval": { "Min": 5, "Max": 5 }
+}
