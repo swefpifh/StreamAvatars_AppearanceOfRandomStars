@@ -12,5 +12,5 @@
 "starsSpawningSound": "event_spawnrunes",
 "starsSpawningChance": 60,
 "starsSpawningNumber": { "Min": 5, "Max": 10 },
-"starsSpawningInterval": { "Min": 5, "Max": 5 }
+"starsSpawningInterval": { "Min": 3, "Max": 4 }
 }
