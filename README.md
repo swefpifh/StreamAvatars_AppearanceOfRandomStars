@@ -35,10 +35,10 @@ The purpose of this script is to allow the configurable appearance of stars to b
 >- Allows a sound to be played when "*starsSpawningSoundActivated*" is "*True*". The sound must be added to the "**Sounds**" category of **Stream Avatars**. Then enter the name of the title in inverted commas.
 
 ### starsSpawningChance
->- Generates a chance to activate a star. The smaller the number, the lower the chance of a star appearing. If you choose 100, you will get stars every time. (*Default = 60*)
+>- Generates a chance to activate a star. The smaller the number, the lower the chance of a star appearing. If you choose 100, you will get stars every time. (*Default 🠚 60*)
 
 ### starsSpawningNumber
->- Allows you to display a number of stars according to the percentage of chance you entered in "*starsSpawningChance*". By default, a value between 5 and 10 will be stored. Let's imagine that the value chosen is 8. You will then have 8 rolls of the die with a 60% chance of displaying a star. (*Default = Min:5, Max:10*)
+>- Allows you to display a number of stars according to the percentage of chance you entered in "*starsSpawningChance*". By default, a value between 5 and 10 will be stored. Let's imagine that the value chosen is 8. You will then have 8 rolls of the die with a 60% chance of displaying a star. (*Default 🠚 Min: 5, Max: 10*)
 
 ### starsSpawningInterval
->- Allows you to choose the interval between each star. (*Default = Min:3, Max:4*)
+>- Allows you to choose the interval between each star. (*Default 🠚 Min: 3, Max: 4*)
