@@ -1,15 +1,15 @@
 {
 "starsEventSoundActivated": true,
-"starsEventSound": "event_wolfhowling",
+"starsEventSound": "mysfxhere01",
 "starsEventChatTextAnnonce": 1,
-"starsEventChatText": "Oh! mais que se passe-t-il? L'énergie de swefheim envahi l'atmosphère... Cela annonce l’apparition de Pierres runiques... Préparez-vous à les attraper! VIIIIITE!",
+"starsEventChatText": "Oh! What the hell is going on? Black energy invaded the atmosphere... This announces the appearance of mystical stars... Get ready to catch them! QUICKLY!",
 
 "starsBubbleActivated": true,
 "starsUsername": "swefpifh",
-"starsBubbleText": "L'énergie de swefheim envahi l'atmosphère!",
+"starsBubbleText": "The atmosphere is becoming electric!",
 
 "starsSpawningSoundActivated": false,
-"starsSpawningSound": "event_spawnrunes",
+"starsSpawningSound": "mysfxhere02",
 "starsSpawningChance": 60,
 "starsSpawningNumber": { "Min": 5, "Max": 10 },
 "starsSpawningInterval": { "Min": 3, "Max": 4 }
