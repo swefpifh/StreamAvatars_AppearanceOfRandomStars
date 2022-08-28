@@ -15,7 +15,7 @@ The purpose of this script is to allow the configurable appearance of stars to b
 >- **2** 🠚 The message notified in "*starsEventChatText*" will be written in announcement mode and will be sent in the Twitch chat. ⚠ On Android devices, the announcement and the text will not be displayed.
 
 ### starsEventChatText
->- This is the message that will be displayed in the Twitch chat when the command is executed.
+>- This is the message that will be displayed in the Twitch chat when the command is executed. You can enter several messages and one of them will be selected randomly each time the command used to launch the script is activated.
 
 ### starsBubbleActivated
 >- **true** 🠚 Activate the display of the chat bubble.
@@ -25,7 +25,7 @@ The purpose of this script is to allow the configurable appearance of stars to b
 >- Enter the name of the active avatar that will make the chat bubble appear with the text you have chosen in "*starsBubbleText*".
 
 ### starsBubbleText
->- This is the text that will be displayed in the bubble of the chosen character in "*starsUsername*".
+>- This is the text that will be displayed in the bubble of the chosen character in "*starsUsername*". You can enter several messages and one of them will be selected randomly each time the command used to launch the script is activated.
 
 ### starsSpawningSoundActivated
 >- **true** 🠚 Activate the sound effect.
