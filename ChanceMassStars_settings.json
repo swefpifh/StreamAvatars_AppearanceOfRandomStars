@@ -10,7 +10,10 @@
   
 "starsBubbleActivated": true,
 "starsUsername": "swefpifh",
-"starsBubbleText": "The atmosphere is becoming electric!",
+"starsBubbleText": [
+    "The atmosphere is becoming electric!",
+    "This tonight, the stars are shining!"
+    ],
 
 "starsSpawningSoundActivated": false,
 "starsSpawningSound": "mysfx02here",
