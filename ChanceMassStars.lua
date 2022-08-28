@@ -22,8 +22,10 @@ return function()
 	
 	if sBubbleActivated == true then
 		local sAvatar = getUser(data.starsUsername)
+		local sBubbleText = data.starsBubbleText[math.random(#data.starsBubbleText)]
+		
 		wait(2)
-        	sAvatar.chatBubble(data.starsBubbleText)
+        	sAvatar.chatBubble(sBubbleText)
 	end
 	
 	wait(5)
