@@ -1,5 +1,5 @@
 {
-"starsEventSoundActivated": true,
+"starsEventSoundActivated": false,
 "starsEventSound": "mysfx01here",
 "starsEventChatTextAnnonce": 1,
 "starsEventChatText": [
