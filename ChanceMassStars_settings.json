@@ -2,8 +2,12 @@
 "starsEventSoundActivated": true,
 "starsEventSound": "mysfx01here",
 "starsEventChatTextAnnonce": 1,
-"starsEventChatText": "Oh! What the hell is going on? Black energy invaded the atmosphere... This announces the appearance of mystical stars... Get ready to catch them! QUICKLY!",
-
+"starsEventChatText": [
+    "Oh! What the hell is going on? Black energy invaded the atmosphere... This announces the appearance of mystical stars... Get ready to catch them! QUICKLY!",
+    "Hey! A wolf howls in the middle of the day... It announces a mystical event... Stars maybe ??? Get ready to catch them! QUICKLY!",
+    "Hmmmm... The air becomes heavy and electric! This announces the fall of stars... Get ready to catch them! QUICKLY!"
+    ],
+  
 "starsBubbleActivated": true,
 "starsUsername": "swefpifh",
 "starsBubbleText": "The atmosphere is becoming electric!",
