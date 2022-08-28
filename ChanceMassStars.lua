@@ -19,7 +19,7 @@ return function()
 	end
 	
 	if sBubbleActivated == true then
-		sAvatar = getUser(data.starsUsername)
+		local sAvatar = getUser(data.starsUsername)
 		wait(2)
         	sAvatar.chatBubble(data.starsBubbleText)
 	end
