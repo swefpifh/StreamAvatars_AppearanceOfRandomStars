@@ -12,7 +12,7 @@ The purpose of this script is to allow the configurable appearance of stars to b
 ### starsEventChatTextAnnonce
 >- **0** 🠚 No message will be displayed in the Twitch chat.
 >- **1** 🠚 The message notified in "*starsEventChatText*" will be written in italics and displayed in the Twitch chat. (*Default*)
->- **2** 🠚 The message notified in "*starsEventChatText*" will be written in announcement mode and will be sent in the Twitch chat. ⚠ On Android devices, the announcement and the text will not be displayed.
+>- **2** 🠚 The message notified in "*starsEventChatText*" will be written in announcement mode and will be sent in the Twitch chat. ⚠ **On Android devices, the announcement and the text will not be displayed**.
 
 ### starsEventChatText
 >- This is the message that will be displayed in the Twitch chat when the command is executed. You can enter several messages and one of them will be selected randomly each time the command used to launch the script is activated.
