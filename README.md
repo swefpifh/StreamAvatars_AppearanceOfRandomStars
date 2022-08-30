@@ -1,6 +1,6 @@
 # Stream Avatars - Appearance of a random number of stars
 ##### :speech_balloon: Script for *Stream Avatars* by swefpifh#0026 (*with the help of __clonze#6280__*)
-The purpose of this script is to allow the configurable appearance of stars to be retrieved.
+:scroll: The purpose of this script is to allow the configurable appearance of stars to be retrieved.
 
 ### starsEventSoundActivated
 >- **true** 🠚 Activate the sound effect for the launch of the command.
