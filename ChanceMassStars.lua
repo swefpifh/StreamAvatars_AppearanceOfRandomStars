@@ -11,9 +11,10 @@ return function()
 	local sSpawningNumber = math.random(data.starsSpawningNumber.Min, data.starsSpawningNumber.Max)
 	local sSpawningInterval = math.random(data.starsSpawningInterval.Min + math.random(), data.starsSpawningInterval.Max)
 	
+	local sEventSound = data.starsEventSound[math.random(#data.starsEventSound)]
 	local sEventChatText = data.starsEventChatText[math.random(#data.starsEventChatText)]
 	
-	if sEventSoundActivated == true then runCommand("!play " .. data.starsEventSound, true) end
+	if sEventSoundActivated == true then runCommand("!play " .. sEventChatText, true) end
 	
 	if sEventChatTextAnnonce == 1 then writeChat("/me " .. sEventChatText)
 	elseif sEventChatTextAnnonce == 2 then writeChat("/announce " .. sEventChatText)
