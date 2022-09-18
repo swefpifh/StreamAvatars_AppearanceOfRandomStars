@@ -1,6 +1,10 @@
 {
 "starsEventSoundActivated": false,
-"starsEventSound": "mysfx01here",
+"starsEventSound": [
+	"mysfx01here",
+	"mysfx02here",
+	"mysfx03here"
+	],
 "starsEventChatTextAnnonce": 1,
 "starsEventChatText": [
     "Oh! What the hell is going on? Black energy invaded the atmosphere... This announces the appearance of mystical stars... Get ready to catch them! QUICKLY!",
