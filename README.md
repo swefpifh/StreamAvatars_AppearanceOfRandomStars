@@ -7,7 +7,7 @@
 >- **false** 🠚 Deactivate the sound effect for the launch of the command. (*Default*)
 
 ### starsEventSound
->- Allows a sound to be played when "*starsEventSoundActivated*" is "*True*". The sound must be added to the "**Sounds**" category of **Stream Avatars**. Then enter the name of the title in inverted commas.
+>- Allows a sound to be played when "*starsEventSoundActivated*" is "*True*". The sounds must be added to the "**Sounds**" category of **Stream Avatars**. Then enter the name of the title in inverted commas.
 
 ### starsEventChatTextAnnonce
 >- **0** 🠚 No message will be displayed in the Twitch chat.
